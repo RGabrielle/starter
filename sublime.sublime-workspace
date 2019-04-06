@@ -4,156 +4,76 @@
 		"selected_items":
 		[
 			[
-				"Pub",
-				"PubSonore\talias"
+				"affi",
+				"afficher_modifier"
 			],
 			[
-				"valu",
-				"value2\tparameter"
+				"text",
+				"text-right"
 			],
 			[
-				"array",
-				"array2\tparameter"
+				"lis",
+				"liste_sondage"
 			],
 			[
-				"num",
-				"numbers\tconst"
-			],
-			[
-				"display",
-				"displayValue\tfunction"
-			],
-			[
-				"Date",
-				"DateConstructor\tinterface"
-			],
-			[
-				"set",
-				"stepNumber"
-			],
-			[
-				"backgo",
-				"background\tproperty"
-			],
-			[
-				"Myc",
-				"MyComponent"
-			],
-			[
-				"exem",
-				"exemple1"
-			],
-			[
-				"mon",
-				"monthDatePerson"
-			],
-			[
-				"day",
-				"dayDatePerson"
-			],
-			[
-				"parse",
-				"parseInt"
-			],
-			[
-				"dat",
-				"dateOfBirth"
-			],
-			[
-				"date",
-				"dateToday"
-			],
-			[
-				"d",
-				"dateToday"
-			],
-			[
-				"Dat",
-				"dateToday"
-			],
-			[
-				"obe",
-				"observer"
-			],
-			[
-				"noti",
-				"notify"
-			],
-			[
-				"sub",
-				"subscriberId"
-			],
-			[
-				"su",
-				"subscriber"
-			],
-			[
-				"new",
-				"newState"
-			],
-			[
-				"ob",
-				"Observer"
-			],
-			[
-				"Ob",
-				"Observable"
-			],
-			[
-				"ober",
-				"observers"
-			],
-			[
-				"up",
-				"updateEvent"
-			],
-			[
-				"st",
-				"state"
-			],
-			[
-				"u",
-				"updateState"
-			],
-			[
-				"alph",
-				"alphas"
-			],
-			[
-				"number",
-				"numbers"
-			],
-			[
-				"cons",
-				"constructor"
-			],
-			[
-				"trans",
-				"transition-delay\tproperty"
-			],
-			[
-				"back",
-				"background-color\tproperty"
+				"liste",
+				"liste_question"
 			],
 			[
 				"id",
-				"id_utilisateur"
+				"id_sondage"
 			],
 			[
-				"res",
-				"reservation"
+				"te",
+				"template\tTag"
 			],
 			[
-				"anne",
-				"annee_debut"
+				"T",
+				"Tendance"
 			],
 			[
-				"str_re",
-				"str_replace"
+				"font",
+				"fontawesome-all"
 			],
 			[
-				"sea",
-				"searchBox"
+				"al",
+				"alert-danger"
+			],
+			[
+				"coul",
+				"couleur_secondaire"
+			],
+			[
+				"UREL",
+				"URL_HOME"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"en",
+				"entreprise"
+			],
+			[
+				"int",
+				"intval"
 			],
 			[
 				"var",
@@ -260,10 +180,6 @@
 				"SoldeDu"
 			],
 			[
-				"liste",
-				"ListeStruct"
-			],
-			[
 				"getLis",
 				"getListeProjets"
 			],
@@ -308,10 +224,6 @@
 				"row5"
 			],
 			[
-				"te",
-				"textarea\tTag"
-			],
-			[
 				"group",
 				"groupeChoixContact\t(ajout-fiche.php)"
 			],
@@ -332,10 +244,6 @@
 				"id_adresse_fact"
 			],
 			[
-				"text",
-				"textarea\t(client.class.php)"
-			],
-			[
 				"remise",
 				"remise_globale"
 			],
@@ -348,8 +256,8 @@
 				"id_reglement_mode"
 			],
 			[
-				"pa",
-				"pays"
+				"num",
+				"num_tva"
 			],
 			[
 				"id_ad",
@@ -388,6 +296,10 @@
 				"reqDateDebut"
 			],
 			[
+				"date",
+				"date_debut"
+			],
+			[
 				"time",
 				"timepicker"
 			],
@@ -404,10 +316,6 @@
 				"endDate"
 			],
 			[
-				"en",
-				"endDate"
-			],
-			[
 				"star",
 				"startDate"
 			],
@@ -418,6 +326,10 @@
 			[
 				"min",
 				"min-height"
+			],
+			[
+				"u",
+				"uppercase"
 			],
 			[
 				"demain",
@@ -514,6 +426,94 @@
 			[
 				"bgc",
 				"background-color"
+			],
+			[
+				"btn-",
+				"btn-famille"
+			],
+			[
+				"tabC",
+				"tabCat2"
+			],
+			[
+				"tabCa",
+				"tabCat"
+			],
+			[
+				"id_fab",
+				"id_fab_panier"
+			],
+			[
+				"ligne",
+				"ligne"
+			],
+			[
+				"Charger",
+				"ChargerForm"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"array_re",
+				"array_reverse"
+			],
+			[
+				"Char",
+				"ChargerForm"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"FALSE",
+				"false"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"v",
+				"var_dump"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"temps",
+				"temps_interval"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"Facture",
+				"Facturation_Client"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"t",
+				"tab"
 			]
 		]
 	},
@@ -527,12 +527,28 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 335.0,
 		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"instal",
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
 				"Package Control: Install Package"
 			],
 			[
@@ -540,24 +556,8 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"insa",
-				"Package Control: Install Package"
-			],
-			[
-				"in s",
-				"Package Control: Install Package"
-			],
-			[
-				"pack",
+				"Package Control: ",
 				"Package Control: List Packages"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"remove",
@@ -568,16 +568,8 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
-				"remo",
-				"Package Control: Remove Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Install Package"
+				"pack",
+				"Package Control: List Packages"
 			],
 			[
 				"sass",
@@ -625,167 +617,148 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp64/www/starter",
-		"/C/wamp64/www/starter/src",
-		"/C/wamp64/www/starter/src/components",
-		"/C/wamp64/www/starter/src/components/blog",
-		"/C/wamp64/www/starter/src/layouts",
-		"/C/wamp64/www/starter/src/shards-dashboard",
-		"/C/wamp64/www/starter/src/views"
+		"/C/wamp64/www/projet-m1"
 	],
 	"file_history":
 	[
-		"/C/wamp64/www/starter/src/components/layout/MainFooter.js",
-		"/C/wamp64/www/starter/src/views/PubVisuel.js",
-		"/C/wamp64/www/starter/src/views/PubSonore.js",
-		"/C/wamp64/www/starter/src/views/PubOlfactive.js",
-		"/C/wamp64/www/starter/src/components/layout/MainNavbar/NavbarSearch.js",
-		"/C/wamp64/www/starter/src/shards-dashboard/form-components.html",
-		"/C/wamp64/www/starter/src/shards-dashboard/components-blog-posts.html",
-		"/C/wamp64/www/starter/src/components/blog/UsersOverview.js",
-		"/C/wamp64/www/starter/src/components/blog/UsersByDevice.js",
-		"/C/wamp64/www/starter/src/shards-dashboard/index.html",
-		"/C/wamp64/www/starter/src/components/layout/MainNavbar/NavbarNav/UserActions.js",
-		"/C/wamp64/www/starter/src/shards-dashboard/pub-olfactive.html",
-		"/C/wamp64/www/starter/src/shards-dashboard/pub-sonore.html",
-		"/C/wamp64/www/starter/src/shards-dashboard/pub-visuel.html",
-		"/C/wamp64/www/starter/src/shards-dashboard/user-profile-lite.html",
-		"/C/wamp64/www/starter/src/components/user-profile-lite/UserAccountDetails.js",
-		"/C/wamp64/www/starter/src/components/user-profile-lite/UserDetails.js",
-		"/C/wamp64/www/starter/src/shards-dashboard/styles/scss/_variables.scss",
-		"/C/wamp64/www/starter/src/components/layout/MainSidebar/SidebarMainNavbar.js",
-		"/C/wamp64/www/starter/src/data/sidebar-nav-items.js",
-		"/C/wamp64/www/starter/node_modules/.cache/babel-loader/3794b5ca18b6a2a5413fb0f80004bf79.json",
-		"/C/wamp64/www/starter/src/routes.js",
-		"/C/wamp64/www/starter/src/views/Errors.js",
-		"/C/wamp64/www/starter/src/shards-dashboard/errors.html",
-		"/C/Users/Yvann/Desktop/5Test.ts",
-		"/C/wamp64/www/typescript/src/UNION;TS",
-		"/C/wamp64/www/typescript/mon-fichier.ts",
-		"/C/wamp64/www/typescript/bin/mon-fichier.js",
-		"/C/wamp64/www/typescript/src/mon-fichier.ts",
-		"/C/wamp64/www/typescript/src/object.ts",
-		"/C/wamp64/www/typescript/src/namespace.ts",
-		"/C/wamp64/www/typescript/tsconfig.json",
-		"/C/wamp64/www/react-tic-tac-toe/src/App.js",
-		"/C/wamp64/www/react-tic-tac-toe/src/plateau.jsx",
-		"/C/wamp64/www/react-tic-tac-toe/src/carre.jsx",
-		"/C/wamp64/www/react-tic-tac-toe/src/jeu.jsx",
-		"/C/wamp64/www/react-tic-tac-toe/src/blink.jsx",
-		"/C/wamp64/www/projet-annuel/css/sass_start.bat",
-		"/C/wamp64/www/react-tic-tac-toe/node_modules/autoprefixer/node_modules/postcss/lib/map-generator.js",
-		"/C/wamp64/www/react-tic-tac-toe/src/index.css",
-		"/C/wamp64/www/react-tic-tac-toe/src/index.js",
-		"/C/wamp64/www/react-tic-tac-toe/src/calculateWinner.jsx",
-		"/C/wamp64/www/react-tic-tac-toe/src/functions.js",
-		"/C/wamp64/www/react-tic-tac-toe/src/jeu.js",
-		"/C/wamp64/www/react-tic-tac-toe/src/plateau.js",
-		"/C/wamp64/www/react-tic-tac-toe/src/carre.js",
-		"/C/wamp64/www/hitemaNodeJs/my-app/src/MyComponent.js",
-		"/C/wamp64/www/react-tic-tac-toe/src/App.css",
-		"/C/wamp64/www/hitemaNodeJs/my-app/src/App.js",
-		"/C/wamp64/www/hitemaNodeJs/my-app/src/index.js",
-		"/C/wamp64/www/hitemaNodeJs/my-app/src/MyComponent2.js",
-		"/C/wamp64/www/hitemaNodeJs/my-app/public/index.html",
-		"/C/wamp64/www/hitemaNodeJs/my-app/public/manifest.json",
-		"/C/wamp64/www/hitemaNodeJs/my-app/app.js",
-		"/C/wamp64/www/javascript090119/exercice1.html",
-		"/C/wamp64/www/javascript090119/exercice2.html",
-		"/C/wamp64/www/javascript090119/exercice3.html",
-		"/C/wamp64/www/javascript090119/exercice4.html",
-		"/C/wamp64/www/javascript090119/exercice6.html",
-		"/C/wamp64/www/javascript090119/exercice5.html",
-		"/C/wamp64/www/javascript090119/index.html",
-		"/C/wamp64/www/javascript090119/interval.html",
-		"/C/wamp64/www/javascript090119/swapi.html",
-		"/E/Travaille/HITEMA M1/JAVASCRIPT/td_design_pattern_obersver_js.txt",
-		"/E/Travaille/HITEMA M1/JAVASCRIPT/correction_exercice_07-01-2019_js.txt",
-		"/C/wamp64/www/javascript090119/starwars.html",
-		"/C/wamp64/www/javascript090119/interval.php",
-		"/C/wamp64/www/javascript070119/index.html",
-		"/E/Travaille/test.html",
-		"/E/Travaille/exo.html",
-		"/C/wamp64/www/projet-annuel/css/sass/_loader.scss",
-		"/C/wamp64/www/projet-annuel/css/sass/style.scss",
-		"/C/wamp64/www/projet-annuel/js/generale.js",
-		"/C/wamp64/www/projet-annuel/0-config/code-affichage.php",
-		"/C/wamp64/www/projet-annuel/deconnexion.php",
-		"/C/wamp64/www/projet-annuel/index.php",
-		"/C/wamp64/www/projet-annuel/css/sass/_autofill.scss",
-		"/C/wamp64/www/nodejs/exo1.js",
-		"/C/wamp64/www/projet_php/description.app.vue.js",
-		"/C/wamp64/www/projet_php/description.php",
-		"/C/wamp64/www/projet_php/0-config/config-genos.php",
-		"/C/wamp64/www/projet_php/data.php",
-		"/C/wamp64/www/projet-annuel/0-config/config-genos.php",
-		"/C/wamp64/www/projet_php/js/maps.js",
-		"/C/wamp64/www/projet_php/1-class/logement.class.php",
-		"/C/wamp64/www/projet_php/bdd/modification yvann 21 09.sql",
-		"/C/wamp64/www/projet_php/1-class/reservation.class.php",
-		"/C/wamp64/www/projet_php/1-class/utilisateur.class.php",
-		"/C/wamp64/www/projet_php/css/sass/style.scss",
-		"/C/wamp64/www/projet_php/0-config/code-affichage.php",
-		"/C/wamp64/www/projet_php/css/sass/_notify.scss",
-		"/C/wamp64/www/projet_php/js/description.app.vue.js",
-		"/C/wamp64/www/projet_php/index.php",
-		"/C/wamp64/www/projet_php/connexion.php",
-		"/C/wamp64/www/projet_php/js/main.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Windows/System32/drivers/etc/networks",
+		"/C/Windows/System32/drivers/etc/protocol",
+		"/C/Windows/System32/drivers/etc/services",
+		"/C/Windows/System32/drivers/etc/lmhosts.sam",
+		"/C/Users/Yvann/Desktop/proto-a2/1-class/mission.class.php",
+		"/C/Users/Yvann/Desktop/proto-a2/1-class/mission_etape.class.php",
+		"/C/Users/Yvann/Desktop/proto-a2/1-class/groupe_utilisateur.class.php",
+		"/C/Users/Yvann/Desktop/proto-a2/1-class/reserve.class.php",
+		"/C/Users/Yvann/Desktop/proto-a2/1-class/projet.class.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/entreprise/index.php",
+		"/C/wamp64/www/projet-annuel/sondage/index.app.vue.js",
 		"/C/wamp64/www/projet-annuel/js/composants/sondage/sondage.comp.js",
-		"/C/wamp64/www/projet-annuel/sondage/index.php",
-		"/C/wamp64/www/projet-annuel/sondage/template/tous-les-sondages.php",
-		"/C/wamp64/www/projet-annuel/js/composants/sondage/data.php",
+		"/C/wamp64/www/projet-annuel/1-class/sondage.class.php",
+		"/C/wamp64/www/projet-annuel/sondage/template/creer-un-sondage.php",
+		"/C/wamp64/www/projet-annuel/sondage/template/mes-sondages.php",
 		"/C/wamp64/www/projet-annuel/js/composants/sondage/valid.php",
-		"/C/wamp64/www/projet_php/inscription.php",
-		"/C/wamp64/www/projet_php/contact.php",
-		"/C/wamp64/www/projet_php/css/sass/_connexion.scss",
-		"/C/wamp64/www/projet_php/deconnexion.php",
+		"/C/wamp64/www/projet-annuel/sondage/valid.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/evenement/index.app.vue.js",
+		"/C/wamp64/www/projet-annuel/css/sass/style.scss",
+		"/C/wamp64/www/projet-annuel/0-config/code-affichage.php",
+		"/C/wamp64/www/projet-annuel/css/sass/_card.scss",
+		"/C/wamp64/www/projet-annuel/sondage/index.php",
+		"/C/wamp64/www/projet-annuel/css/sass/_header.scss",
+		"/C/wamp64/www/projet-annuel/0-config/config-genos.php",
+		"/C/wamp64/www/projet-annuel/sondage/template/ajouter-un-sondage.php",
+		"/C/Users/Yvann/Desktop/proto-a2/0-config/config-genos.php",
+		"/C/wamp64/www/projet-annuel/sondage/data.php",
+		"/C/wamp64/www/projet-annuel/1-class/question.class.php",
+		"/C/wamp64/www/projet-annuel/1-class/choix.class.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/entreprise/index.app.vue.js",
+		"/C/wamp64/www/projet-annuel/index.php",
+		"/C/wamp64/www/projet-annuel/1-class/entreprise.class.php",
+		"/C/Users/Yvann/Desktop/proto-a2/DATAS/1/MODELES/24/108/index.app.vue.js",
+		"/C/Users/Yvann/Desktop/proto-a2/DATAS/1/MODELES/24/110/index.app.vue.js",
+		"/C/Users/Yvann/Desktop/proto-a2/DATAS/1/MODELES/24/109/index.app.vue.js",
+		"/C/Users/Yvann/Desktop/proto-a2/DATAS/1/MODELES/24/107/index.app.vue.js",
+		"/C/Users/Yvann/Desktop/proto-a2/DATAS/1/MODELES/20/84/index.app.vue.js",
+		"/C/Users/Yvann/Desktop/proto-a2/DATAS/1/MODELES/20/83/index.app.vue.js",
+		"/C/Users/Yvann/Desktop/proto-a2/1-class/ts_tm.class.php",
+		"/C/wamp64/www/projet-annuel/sondage/template/tendance.php",
+		"/C/wamp64/www/projet-annuel/sondage/template/tous-les-sondages.php",
+		"/C/wamp64/www/projet-annuel/1-class/parent_genos.class.php",
 		"/C/wamp64/www/projet-annuel/login.php",
-		"/C/wamp64/www/projet_php/js/generale.js",
-		"/C/wamp64/www/projet_php/css/sass/_maps.scss",
-		"/C/wamp64/www/lattes/js/cbpAnimatedHeader.js",
-		"/C/wamp64/www/lattes/css/owl.carousel.css",
-		"/C/wamp64/www/projet_php/bdd/bdd.sql",
-		"/C/wamp64/www/projet_php/bdd/airbnb.sql",
-		"/C/wamp64/www/projet_php/css/bootstrap.css",
-		"/C/Users/Yvann/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/wamp64/www/projet-annuel/js/filtre/date.filtre.js",
+		"/C/Users/Yvann/Desktop/proto-a2/js/filtre/date.filter.js",
+		"/C/wamp64/www/projet-annuel/js/scroller.js",
+		"/C/wamp64/www/projet-annuel/js/generale.js",
+		"/C/Users/Yvann/Desktop/proto-a2/js/composant/profession/profession.comp.js",
+		"/C/wamp64/www/projet-annuel/js/composants/sondage/template.php",
+		"/C/wamp64/www/projet-annuel/1-class/template.class.php",
+		"/C/wamp64/www/projet-annuel/js/composants/sondage/data.php",
+		"/C/Users/Yvann/Desktop/proto-a2/0-config/code-affichage.php",
+		"/C/wamp64/www/projet-annuel/js/composants/sondage/index.js",
+		"/C/wamp64/www/projet-annuel/js/composants/sondage/index.app.vue.js",
+		"/C/wamp64/www/projet-annuel/js/composants/sondage/index.vue.js",
+		"/C/Users/Yvann/Desktop/proto-a2/js/generale.js",
+		"/C/wamp64/www/projet-annuel/sondage/template/tous-les-sondages.html",
+		"/C/wamp64/www/projet-annuel/sondage/template/ajouter-un-sondage.html",
+		"/C/wamp64/www/projet-annuel/sondage/template/mes-sondages.html",
+		"/C/wamp64/www/projet-annuel/sondage/template/tendance.html",
+		"/C/wamp64/www/projet-annuel/sondage/composants/tendance.vue",
+		"/C/Users/Yvann/Desktop/proto-a2/js/composant/contact-type/data.php",
+		"/C/wamp64/www/projet-annuel/sondage/composants/tendance.vue.js",
+		"/C/Users/Yvann/Desktop/proto-a2/1-class/adresse.class.php",
+		"/C/Users/Yvann/Desktop/proto-a2/1-class/alerte.class.php",
+		"/C/Users/Yvann/Desktop/proto-a2/js/composant/contact-type/valid.php",
+		"/C/Users/Yvann/Desktop/proto-a2/js/composant/contact-type/contact-type.comp.js",
+		"/C/wamp64/www/projet-annuel/sondage/index.app.vue",
+		"/C/wamp64/www/projet-annuel/js/composants/sondage/index.vue",
+		"/C/wamp64/www/projet-annuel/js/vue-router.js",
+		"/C/wamp64/www/projet-annuel/js/vue.js",
+		"/C/wamp64/www/projet-annuel/js/vue/index.vue.js",
+		"/C/Users/Yvann/Desktop/proto-a2/js/composant/alerte-module/alerte-module.comp.js",
+		"/C/Users/Yvann/Desktop/proto-a2/js/composant/adresse-theme/adresse-theme.comp.js",
+		"/C/wamp64/www/projet-annuel/js/vue-router.min.js",
+		"/C/wamp64/www/vue-migration-helper-master/spec/fixtures/projects/ignorable/main.js",
+		"/C/wamp64/www/projet-annuel/vue-migration-helper-master/README.md",
+		"/C/wamp64/www/vue-migration-helper-master/spec/fixtures/projects/simple/main.js",
+		"/C/wamp64/www/projet-annuel/user.php",
+		"/C/wamp64/www/projet-annuel/sondage/routing.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/type-utilisateur/index.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/type-sondage/form.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/sondage/index.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/sondage/form.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/evenement/index.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/evenement/form.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/type-utilisateur/form.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/type-sondage/index.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/entreprise/form.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/index.php",
+		"/C/wamp64/www/projet-annuel/sondage.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/utilisateur/index.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/utilisateur/form.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration/index.php",
+		"/C/wamp64/www/projet-annuel/css/sass/_header-side.scss",
+		"/C/wamp64/www/thin-admin/css/thin-admin.css",
+		"/C/wamp64/www/projet-annuel/1-class/type_sondage.class.php",
 		"/C/wamp64/www/projet-annuel/1-class/utilisateur.class.php",
-		"/C/wamp64/www/projet-annuel/css/sass/_index.scss",
-		"/C/Users/Yvann/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-		"/C/Users/Yvann/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
-		"/C/wamp64/www/projet-annuel/css/bootstrap.css",
-		"/C/wamp64/www/projet-annuel/css/shThemeRDark.css",
-		"/C/wamp64/www/projet-annuel/0-config/fonctions.php",
-		"/C/wamp64/www/projet-annuel/css/shCore.css",
-		"/C/wamp64/www/projet-annuel/js/shBrushPhp.js",
-		"/C/wamp64/www/projet-annuel/js/shCore.js",
-		"/E/TRAVAIL/ONEDRIVE/HITEMA/PROJET ANNUEL/WEBSTART/0-config/code-affichage.php",
-		"/C/wamp64/www/projet-annuel/0-config/config-genos-backup.php",
-		"/C/wamp64/www/projet-annuel/README.md",
-		"/C/wamp64/www/GENOS/index.php",
-		"/C/wamp64/www/index.php"
+		"/C/wamp64/www/projet-annuel/node_modules/fontawesome-pro/web-fonts-with-css/css/fontawesome-all.css",
+		"/C/wamp64/www/projet-annuel/node_modules/fontawesome-pro/svg-with-js/js/fontawesome-all.min.js",
+		"/C/wamp64/www/projet-annuel/css/sass/_login.scss",
+		"/C/wamp64/www/thin-admin/style/style.css",
+		"/C/Users/Yvann/Desktop/proto-a2/1-class/genos-complete.class.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/entreprise/valid.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/sondage/valid.php",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/type-utilisateur/index.app.vue.js",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/sondage/index.app.vue.js",
+		"/C/wamp64/www/projet-annuel/1-modules/configuration_global/type-sondage/index.app.vue.js",
+		"/C/wamp64/www/projet-annuel/demande.php",
+		"/C/wamp64/www/php-mailer/src/PHPMailer.php",
+		"/C/Users/Vinsen/Downloads/envoyer_des_mails.php",
+		"/C/wamp64/sendmail/sendmail.ini",
+		"/C/wamp64/www/php-mailer/composer.json",
+		"/C/wamp64/www/projet-annuel/php-mailer/src/OAuth.php",
+		"/C/wamp64/www/projet-annuel/php-mailer/UPGRADING.md",
+		"/C/Users/Vinsen/Desktop/Cours/Cours_Hitema/Programmation/JavaScript/Angular/Projet/todo.css",
+		"/C/Users/Vinsen/Desktop/Cours/Cours_Hitema/Programmation/JavaScript/Angular/Projet/todo.js",
+		"/C/Users/Vinsen/Desktop/Cours/Cours_Hitema/Programmation/JavaScript/Angular/Projet/index.html",
+		"/C/Users/Vinsen/Desktop/Cours/Cours_Hitema/Programmation/JavaScript/ES6/Exercice/exercice.js",
+		"/C/Users/Vinsen/Desktop/Cours/Cours_Hitema/Programmation/JavaScript/ES6/Exercice/const.js",
+		"/C/wamp64/www/projet-annuel/css/sass/_animated.scss",
+		"/C/wamp64/www/projet-annuel/js/node_modules/moment/src/moment.js",
+		"/C/wamp64/www/projet-annuel/0-config/fonctions-affichage.php",
+		"/C/Users/Yvann/Desktop/proto-a2/1-modules/configuration/index.php",
+		"/C/Users/Yvann/Desktop/proto-a2/1-class/ged.class.php",
+		"/C/wamp64/www/projet-annuel/.gitignore",
+		"/C/wamp64/www/projet-annuel/css/sass/_couleur.scss"
 	],
 	"find":
 	{
-		"height": 33.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
-		"height": 134.0,
+		"height": 313.0,
 		"where_history":
 		[
-			"C:\\wamp64\\www\\starter",
-			"C:\\wamp64\\www\\starter\\src\\shards-dashboard",
-			"C:\\wamp64\\www\\starter",
-			"C:\\wamp64\\www\\starter\\src\\shards-dashboard",
-			"C:\\wamp64\\www\\starter\\src",
-			"C:\\wamp64\\www\\starter",
-			"C:\\wamp64\\www\\starter\\src",
-			"C:\\wamp64\\www\\starter\\src\\shards-dashboard\\styles\\scss",
-			"C:\\wamp64\\www\\starter\\src\\shards-dashboard\\styles",
-			"C:\\wamp64\\www\\starter\\src\\shards-dashboard\\styles\\scss",
-			"C:\\wamp64\\www\\starter",
-			"C:\\wamp64\\www\\starter\\src\\shards-dashboard",
-			"C:\\wamp64\\www\\starter"
 		]
 	},
 	"find_state":
@@ -793,55 +766,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"Copyright © 2018 DesignRevision",
-			"DesignRevision",
-			"NewDraft",
-			"Chart",
-			"Search for something",
-			"search for something",
-			"Shear for something",
-			"comments",
-			"title",
-			"Users Overview",
-			"Users Ov",
-			"Users Over",
-			"comments",
-			"Blog Overview",
-			"Blog Re",
-			"Brooks",
-			"sierra",
-			"#007bff",
-			"main",
-			"007bff",
-			"#007bff",
-			"main-sidebar",
-			"id=\"main-logo\"",
-			"overview",
-			"Dshboard",
-			"Blog POsts",
-			"Blog Dashboard",
-			"Add New",
-			"BlogOverview",
-			"PubSonore",
-			"BlogOverview",
-			"PubVisuel",
-			"PubOlfactive",
-			"PubSonore",
-			"BlogOverview",
-			"AddNewPost",
-			"add",
-			"AddNewPost",
-			"router",
-			"Add-new",
-			"AddNew",
-			"BlogPosts",
-			"DefaultLayout",
-			"posts",
-			"blog",
-			"posts",
-			"BlogPosts",
-			"add-new-post",
-			"Forms &amp; Component"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -849,12 +773,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"Rechercher",
-			"PubOlfactive",
-			"PubSonore",
-			"BlogOverview",
-			"PubVisuel",
-			"BlogOverview"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -862,12 +780,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"folders":
-	[
-		{
-			"path": "C:\\wamp64\\www\\starter"
-		}
-	],
 	"groups":
 	[
 		{
@@ -878,11 +790,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 32.0
 	},
 	"input":
 	{
-		"height": 47.0
+		"height": 107.0
 	},
 	"layout":
 	{
@@ -907,10 +819,6 @@
 		]
 	},
 	"menu_visible": true,
-	"output.doc":
-	{
-		"height": 0.0
-	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -920,10 +828,10 @@
 		"height": 34.0
 	},
 	"pinned_build_system": "",
-	"project": "",
+	"project": "sublime.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -932,6 +840,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				".gitignore"
+			],
 			[
 				"turquie",
 				"turquie.php"
@@ -1293,10 +1205,6 @@
 				"0-class\\intervention.class.php"
 			],
 			[
-				"",
-				"intervention\\fiche.php"
-			],
-			[
 				"configaff",
 				"0-config\\code-affichage.php"
 			],
@@ -1513,7 +1421,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 249.0,
+	"side_bar_width": 243.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
