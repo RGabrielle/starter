@@ -39,26 +39,22 @@ MainFooter.propTypes = {
 
 MainFooter.defaultProps = {
   contained: false,
-  copyright: "Copyright © 2018 DesignRevision",
+  copyright: "Copyright © 2019 Gry",
   menuItems: [
     {
-      title: "Home",
+      title: "Accueil",
       to: "#"
     },
     {
-      title: "Services",
+      title: "Pub visuel",
       to: "#"
     },
     {
-      title: "About",
+      title: "Pub sonore",
       to: "#"
     },
     {
-      title: "Products",
-      to: "#"
-    },
-    {
-      title: "Blog",
+      title: "Pub olfactive",
       to: "#"
     }
   ]

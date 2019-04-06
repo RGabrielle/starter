@@ -13,6 +13,10 @@ import ComponentsOverview from "./views/ComponentsOverview";
 import Tables from "./views/Tables";
 import BlogPosts from "./views/BlogPosts";
 
+import PubVisuel from "./views/PubVisuel";
+import PubSonore from "./views/PubSonore";
+import PubOlfactive from "./views/PubOlfactive";
+
 export default [
   {
     path: "/",
@@ -54,5 +58,20 @@ export default [
     path: "/blog-posts",
     layout: DefaultLayout,
     component: BlogPosts
+  },
+  {
+    path: "/pub-visuel",
+    layout: DefaultLayout,
+    component: PubVisuel
+  },
+  {
+    path: "/pub-sonore",
+    layout: DefaultLayout,
+    component: PubSonore
+  },
+  {
+    path: "/pub-olfactive",
+    layout: DefaultLayout,
+    component: PubOlfactive
   }
 ];
