@@ -14,7 +14,7 @@ const PubSonore = ({ smallStats }) => (
   <Container fluid className="main-content-container px-4">
     {/* Page Header */}
     <Row noGutters className="page-header py-4">
-      <PageTitle title="Blog Overview" subtitle="Dashboard" className="text-sm-left mb-3" />
+      <PageTitle title="Pub sonore" subtitle="Dashboard" className="text-sm-left mb-3" />
     </Row>
 
     {/* Small Stats Blocks */}
@@ -47,20 +47,6 @@ const PubSonore = ({ smallStats }) => (
         <UsersByDevice />
       </Col>
 
-      {/* New Draft */}
-      <Col lg="4" md="6" sm="12" className="mb-4">
-        <NewDraft />
-      </Col>
-
-      {/* Discussions */}
-      <Col lg="5" md="12" sm="12" className="mb-4">
-        <Discussions />
-      </Col>
-
-      {/* Top Referrals */}
-      <Col lg="3" md="12" sm="12" className="mb-4">
-        <TopReferrals />
-      </Col>
     </Row>
   </Container>
 );
@@ -75,7 +61,7 @@ PubSonore.propTypes = {
 PubSonore.defaultProps = {
   smallStats: [
     {
-      label: "Posts",
+      label: "Chart",
       value: "2,390",
       percentage: "4.7%",
       increase: true,
@@ -93,7 +79,7 @@ PubSonore.defaultProps = {
       ]
     },
     {
-      label: "Pages",
+      label: "Chart",
       value: "182",
       percentage: "12.4",
       increase: true,
@@ -111,7 +97,7 @@ PubSonore.defaultProps = {
       ]
     },
     {
-      label: "Comments",
+      label: "Chart",
       value: "8,147",
       percentage: "3.8%",
       increase: false,
@@ -130,7 +116,7 @@ PubSonore.defaultProps = {
       ]
     },
     {
-      label: "New Customers",
+      label: "Chart",
       value: "29",
       percentage: "2.71%",
       increase: false,
@@ -149,7 +135,7 @@ PubSonore.defaultProps = {
       ]
     },
     {
-      label: "Subscribers",
+      label: "Chart",
       value: "17,281",
       percentage: "2.4%",
       increase: false,
